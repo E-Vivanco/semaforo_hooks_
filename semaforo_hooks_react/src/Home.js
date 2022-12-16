@@ -1,6 +1,11 @@
 import React from 'react';
+const [color_R , setColor1] =useState("red")
+const [color_A , setColor2] =useState("yellow")
+const [color_V , setColor3] =useState("green")
 
-const Home=()=>{
+
+
+const Home=(props)=>{
    return(
     <>
     <div id="Trafico-luces">
