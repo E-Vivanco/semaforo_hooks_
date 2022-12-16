@@ -2,3 +2,12 @@
     margin:0;
     padding:0;
 }
+.fa-solid .fa-clock-two{
+    background-color: black;
+}
+.container-fluid div{
+    display:inline-block
+}
+.icono_1{
+    text-align: center;
+}
