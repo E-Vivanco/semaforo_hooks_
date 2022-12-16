@@ -1,15 +1,21 @@
 *{
-    margin:0;
+    margin:10%;
     padding:0;
 }
-.fa-solid .fa-clock-two{
-    color: black;
-}
-.container-fluid div{
-    display:inline-block;
-    /*background-color: #000;*/
-}
-.icono_1{
+.brazo_semaforo{
     text-align: center;
-    color: black;
+    height: 188px;
+    width: 10px;
+    background: #333;
+    margin-left:55%;
+}
+
+.container div{
+    display:block;
+    text-align: center;
+    width: 65px;
+    height: 60px;
+    background: #333;
+    border-radius: 15px;
+    color:white
 }
