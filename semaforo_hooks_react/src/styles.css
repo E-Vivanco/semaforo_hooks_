@@ -3,11 +3,13 @@
     padding:0;
 }
 .fa-solid .fa-clock-two{
-    background-color: black;
+    color: black;
 }
 .container-fluid div{
-    display:inline-block
+    display:inline-block;
+    /*background-color: #000;*/
 }
 .icono_1{
     text-align: center;
+    color: black;
 }
