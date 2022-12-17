@@ -1,8 +1,8 @@
 import React, { useState } from 'react';
 
-
 const Home=()=>{
     const [color, setColor] =useState(" ")
+    
     return(
     <>
     <div id="Trafico_luces">
